@@ -27,14 +27,22 @@
 ## 📸 Screenshots
 
 ![Doctor's Dashboard](</screenshots/image-01.png>) *Doctor's Dashboard*  
+
 ![Selecting Schedule](</screenshots/image-02.png>) *Selecting Schedule*  
+
 ![Patient's Records](</screenshots/image-03.png>) *Patient's Records*  
+
 ![Appointment Management](</screenshots/image-04.png>) *Confirm/Cancel/Reject Appointments*  
+
 ![Virtual Call Session](</screenshots/image-05.png>) *Zoom Consultation*  
+
 ![Patient's Dashboard](</screenshots/image-06.png>) *Patient Portal*  
+
 ![Booking Appointment](</screenshots/image-07.png>) *Appointment Booking*  
+
 ![Notifications](</screenshots/image-08.png>) *Patient Notifications*  
-![AI Suggestions](</screenshots/image-08.png>) *Health Article Recommendations*
+
+![AI Suggestions](</screenshots/image-09.png>) *Health Article Recommendations*
 
 ---
 
